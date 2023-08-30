@@ -68,7 +68,7 @@ p {
 }
 
 .full:hover .hidden {
-    border: 1px dotted;
+    border: 1px dotted #141414;
     height: 40px;
     width: 40px;
     box-sizing: content-box;
